@@ -82,6 +82,6 @@ Enter the adjacent node to node 4 between 0 and 4
 ```
 
 The program will color the nodes of the graph and display the result in a window. The resulting graph will be displayed in a new window:
-<div style="text-align:center;">
+<p align="center">
   <img src="pictures/Figure_1.png" alt="Result">
-</div>
+</p>
