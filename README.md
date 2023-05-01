@@ -21,7 +21,7 @@ pip install colour networkx matplotlib
 2. Open a terminal window and navigate to the directory where you cloned the repository.
 3. Run the following command to execute the program:
 ```sh
-python graph_coloring.py
+python Graph_Coloring_Algorithm.py
 ```
 4. Enter the number of nodes in the graph when prompted.
 5. For each node, enter the number of adjacent nodes and their indices.
